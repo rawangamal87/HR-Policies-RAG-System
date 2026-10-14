@@ -1,3 +1,4 @@
+
 # Simple RAG System — Document Question Answering
 
 A lightweight Retrieval-Augmented Generation (RAG) system that answers questions using information retrieved from a user-provided PDF document or Excel spreadsheet. The project combines semantic search and a language model to generate context-aware answers grounded in the uploaded knowledge base.
@@ -325,6 +326,8 @@ The project serves as a foundation for more advanced document assistants, intern
 
 **Project Type:** AI Engineering / Natural Language Processing / Retrieval-Augmented Generation
 
-**Environment:** Google Colab
+**Environment:** Devin
 
 **Primary Goal:** Answer questions using information retrieved from a user-provided document.
+
+# HR-Policies-RAG-System
